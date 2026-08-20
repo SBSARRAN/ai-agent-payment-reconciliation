@@ -21,6 +21,10 @@ The accountant then manually needs to:
 
 This project automates these steps using **Generative AI + LangGraph + WhatsApp automation**.
 
+
+<img width="1536" height="1024" alt="Demonstration" src="https://github.com/user-attachments/assets/aa981429-2f20-4eb3-bf87-b98d1f36882f" />
+
+
 ---
 
 ## System Workflow
