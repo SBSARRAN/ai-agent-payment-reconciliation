@@ -1,4 +1,5 @@
-# AI Payment Reconciliation System
+# AI Agent Payment Reconciliation System
+
 
 An AI-powered payment reconciliation system that automatically receives customer payment screenshots through WhatsApp, extracts transaction details using AI, matches them against the company's transaction statement, and displays matched payments on a Streamlit dashboard for accountant approval.
 
